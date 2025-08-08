@@ -11,24 +11,17 @@ import "swiper/css/navigation";
 function SlideImageSection() {
   const images = [
     {
-      src: "https://res.cloudinary.com/diwwjzmsh/image/upload/v1750862953/CMOM7578-min_sx9wf3.png",
+      src: "https://i.imgur.com/Jgde5Zj.jpeg",
+      tittle: "Caucasia, Antioquia",
+    },
+
+    {
+      src: "https://i.imgur.com/RmAQTHw.jpeg",
       tittle: "Caucasia, Antioquia",
     },
     {
-      src: "https://res.cloudinary.com/diwwjzmsh/image/upload/v1751032779/SWNW3662_bctkhj.png",
-      tittle: "Jardín Caceres, Antioquia",
-    },
-    {
-      src: "https://res.cloudinary.com/diwwjzmsh/image/upload/v1750862954/FULU3431-min_u1tt18.jpg",
-      tittle: "Caucasia, Antioquia",
-    },
-    {
-      src: "https://res.cloudinary.com/diwwjzmsh/image/upload/v1750862952/EJPN5999-min_xsmleb.png",
-      tittle: "Caucasia, Antioquia",
-    },
-    {
-      src: "https://res.cloudinary.com/diwwjzmsh/image/upload/v1750862952/EWJE9099-min_ddmbxo.png",
-      tittle: "Caucasia, Antioquia",
+      src: "https://i.imgur.com/TXKQ7tg.png",
+      tittle: "Monteria, Cordoba",
     },
   ];
 

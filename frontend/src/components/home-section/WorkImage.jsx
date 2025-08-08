@@ -2,8 +2,7 @@ import React from "react";
 import { Box } from "@mui/material";
 
 const WorkImage = () => {
-  const workImg =
-    "https://res.cloudinary.com/diwwjzmsh/image/upload/v1750862952/ADKR1239-min_knd7cm.png";
+  const workImg = "https://i.imgur.com/9wpD9ZE.png";
   return (
     <>
       <Box
