@@ -55,11 +55,7 @@ const History = () => {
           hogares, negocios y empresas. Hemos experimentado un crecimiento
           exponencial gracias a nuestro compromiso con la innovación y la
           eficiencia, ofreciendo sistemas de paneles solares que garantizan
-          ahorros significativos y un futuro más sostenible. En los últimos dos
-          años, hemos llevado energía limpia y renovable a diversos municipios
-          del bajo Cauca Antioqueño, y ahora a la costa Pacifica y Caribe,
-          impulsando la independencia energética y contribuyendo activamente a
-          un planeta más verde.
+          ahorros significativos y un futuro más sostenible.
         </Typography>
       </Box>
     </>

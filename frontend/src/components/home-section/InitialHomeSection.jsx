@@ -44,7 +44,6 @@ const InitialHomeSection = () => {
 
         <Typography
           variant="h1"
-          // component="h1"
           gutterBottom
           sx={{
             zIndex: 1,
@@ -52,6 +51,7 @@ const InitialHomeSection = () => {
             textShadow: "2px 2px 4px rgb(19, 19, 19)",
             fontSize: "3rem",
             xs: { fontSize: "1.5rem" },
+            md: { fontSize: "6rem" },
             sm: { fontSize: "1.5rem" },
           }}
         >

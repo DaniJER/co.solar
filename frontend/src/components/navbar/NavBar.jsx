@@ -131,6 +131,7 @@ const NavBar = () => {
                     width: "100%",
                   }}
                 >
+                  in
                   <Typography textAlign="center">
                     <b>{page.name}</b>
                   </Typography>
